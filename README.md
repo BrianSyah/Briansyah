@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Briansyah Rizky Pohan</h1>
 <h3 align="center">Halo saya Brian, Jenjang Sekolah saya saat ini SMK, dan Posisi sya saat ini menjadi Seorang Freelance Web Developer, Saya sudah belajar coding ini sejak tahun 2022, saat kelas 8 SMP Masih berlanjut hingga saat ini, Mungkin Kalian Bisa liat Project saya...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briansyah&label=Profile%20views&color=0e75b6&style=flat" alt="briansyah" /> </p>
 
 <h2>About</h2>
 
